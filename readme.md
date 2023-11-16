@@ -1,4 +1,5 @@
-<img src="./error-2129569_1280.jpg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Jiwon!&fontSize=90&customColorList=6" />
+
 
 
 Backend Developer 정지원 👩‍💻 </br> </br> </br>
