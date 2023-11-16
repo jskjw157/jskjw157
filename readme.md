@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2019/04/22/04/32/blue-4145659_1280.jpg" />
+<img src="./blue-4145659_1280.jpg" />
 
 
 Backend Developer 정지원 👩‍💻 </br> </br>
