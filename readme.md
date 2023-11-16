@@ -1,4 +1,4 @@
-<img src="./blue-4145659_1280.jpg" />
+<img src="./error-2129569_640.jpg" />
 
 
 Backend Developer 정지원 👩‍💻 </br> </br>
