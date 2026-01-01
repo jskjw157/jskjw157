@@ -22,7 +22,6 @@ Backend Developer 정지원 👩‍💻 </br> </br> </br>
 
 
 ✨ Follow Me ✨</br>
-<a href="https://oduckprogrammer.notion.site/66112ec4479e48e09de8da460f0debd2?v=4777bc164ace40359896c52ac11d37ad"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/><a/><!--노션-->
 <a href="https://johnny-developer-story.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><a/>
 <!--
 !Anurag's GitHub stats
