@@ -28,6 +28,13 @@ const developer = {
 | **Infra** | AWS, Docker, Podman |
 | **Media** | FFmpeg, WebRTC, Mediasoup |
 
+#### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jskjw157&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jskjw157&layout=compact&theme=default&hide_border=true&langs_count=8" height="170" />
+</div>
+
 ---
 
 [![Tistory Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://johnny-developer-story.tistory.com/)
