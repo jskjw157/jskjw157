@@ -31,8 +31,16 @@ const developer = {
 #### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jskjw157&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jskjw157&layout=compact&theme=default&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jskjw157&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jskjw157&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jskjw157&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jskjw157&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
